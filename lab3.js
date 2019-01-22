@@ -1,6 +1,5 @@
 var arrExample1 = [[3,20,8,13,4,100,80],[4,4,18,14,3,0,60],[10,4,18,8,6,0,30],[7,19,17,2,1,100,60],[10,30,40,50,70,30]];
-var arrExample2 = [[1,2,4,3,6],[4,3,8,5,8],[2,7,6,3,10],[4,6,8,6
-
+var arrExample2 = [[1,2,4,3,6],[4,3,8,5,8],[2,7,6,3,10]
 function getEquation(arr){
 	document.getElementById('equations').innerHTML = '';
 	var eq = document.createDocumentFragment();
